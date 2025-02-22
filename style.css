@@ -22,9 +22,49 @@ body{
 .right a {
     text-decoration: none;
     padding-left: 10px;
+    color:#E5E7EB;
    
 }
 
 .hero{
     background-color: #1F2937;
+}
+.main-content{
+    padding-left: 80px;
+    display: flex;
+    justify-content: space-evenly;
+    padding-right: 80px;
+}
+#main-text {
+    font-size: 48px;
+    color:#F9FAF8;
+    font-weight: 900;
+    
+}
+
+#sign-up{
+    padding: 6px 20px;
+    color:#F9FAF8;
+    background-color: #3882F6;
+    border-radius: 10px;
+    border-color: #3882F6;
+    box-shadow: none;
+    font-weight: bold;
+    width: 100px;
+    margin-bottom: 100px;
+}
+
+#main-para{
+    font-size: 18px;
+    color: #E5E7EB;
+}
+
+.hero-right{
+    display: flex;
+    flex-direction: column;
+    /* justify-items: auto;
+    justify-content: space-evenly; */
+}
+.hero-image{
+    padding-left: 20px;
 }
