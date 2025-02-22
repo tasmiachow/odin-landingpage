@@ -114,3 +114,39 @@ body{
     text-align: right;
 
 }
+
+.action{
+    background-color: #F9FAF8;
+    display: flex;
+    padding: 80px 80px;
+}
+.blue-box{
+    background-color: #3882F6;
+    margin:auto;
+    display: flex;
+    justify-content: center;
+    padding: 40px;
+    width: 1400px;
+    border-radius: 8px;
+}
+.right-action{
+    display: flex;
+    flex-direction: column;
+    padding-right: 100px;
+}
+#action-title{
+    color:#F9FAF8;
+}
+
+.button{
+    align-self:center;
+}
+#action-button{
+    background-color: #3882F6;
+    color:#F9FAF8;
+    border: solid;
+    border-color: #F9FAF8;
+    border-radius: 10px;
+    padding: 5px 15px;
+}
+
