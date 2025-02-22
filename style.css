@@ -68,3 +68,31 @@ body{
 .hero-image{
     padding-left: 20px;
 }
+
+#random-title{
+    font-size:36px;
+    color:#1F2937;
+    font-weight: 900;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+.boxes{
+    display: flex;
+    justify-content: space-evenly;
+    padding: 20px 80px;   
+}
+.item{
+    display: flex;
+    flex-direction: column;
+}
+.box{
+    border: solid;
+    height: 60px;
+    width: 60px;
+    border-radius: 10px;
+    border-color: #3882F6;
+    padding: 10px;
+    margin-left: 20px;
+    
+}
