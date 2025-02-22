@@ -150,3 +150,12 @@ body{
     padding: 5px 15px;
 }
 
+.footer{
+    background-color: #1F2937;
+    padding: 20px 80px;
+
+}
+h5{
+    color:#F9FAF8;
+    text-align: center;
+}
