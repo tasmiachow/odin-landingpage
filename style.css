@@ -96,3 +96,21 @@ body{
     margin-left: 20px;
     
 }
+
+.inspiring{
+    background-color: #E5E7EB;
+    padding: 20px 80px;
+}
+#random-qoute{
+    font-size: 36px;
+    color:#1F2937;
+    padding-left: 20px;
+    padding-right: 20px;
+    font-style:italic;
+    font-weight: lighter;
+}
+
+#person{
+    text-align: right;
+
+}
